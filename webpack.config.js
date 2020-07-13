@@ -42,10 +42,9 @@ module.exports = {
         new HtmlWebpackPlugin({ template: './src/index.html' }),
         new webpack.DefinePlugin({
             
-           // global app config object
-           
-         config: JSON.stringify({  apiUrl: 'http://localhost:443'  })
-        //config: JSON.stringify({ apiUrl: 'https://pso-express-react-jwt-signup.azurewebsites.net/' })
+          // global app config object
+        // config: JSON.stringify({  apiUrl: 'http://localhost:443'  })
+        config: JSON.stringify({ apiUrl: 'https://pso-express-react-jwt-signup.azurewebsites.net/' })
 
         }),
 

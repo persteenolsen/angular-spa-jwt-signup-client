@@ -1,6 +1,6 @@
 
 
-  - This Angular Single Page Application is the frontend for a secure Node.js and Express Web API serving as a role based Membership system
+  - This Angular Single Page Application is the frontend for a secure Node.js and Express Web API serving as a Membership system
   - Angular 8 
   - TypeScript
   - Manuel configuration of Webpack 4 serving as a module bundler
