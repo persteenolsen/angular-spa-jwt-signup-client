@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/persteenolsen/angularspajwtsignupclient"
+        "url": "https://github.com/persteenolsen/angular-spa-jwt-signup-client"
     },
     "scripts": {
         "build": "webpack --mode production",
